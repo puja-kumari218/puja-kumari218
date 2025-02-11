@@ -1,6 +1,5 @@
 # Puja Kumari - Frontend Developer & Web Designer
 
-![Animated Profile Image](#)  
 **"Creative Frontend Developer & Web Designer"**
 
 ---
@@ -36,4 +35,4 @@ I am available for **freelance projects** and open to work opportunities. If you
 🔗 [LinkedIn](#)  
 🔗 [Twitter](#)  
 🔗 [Behance](#)  
-📧 **Email:** [Click to Email](#)
+📧 **Email:** [pujakumarijb@gmail.com](#)
