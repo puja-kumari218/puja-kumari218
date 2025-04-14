@@ -21,7 +21,7 @@ Currently, I am open to **freelance projects** and eager to collaborate with bus
 
 ## 🔥 Skills & Technologies
 - **Programming Languages:** `Java`, `JavaScript`, `PHP`  
-- **Frontend Development:** `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `React.js`  
+- **Frontend Development:** `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `React.js`, `Next.js`  
 - **Design & Prototyping:** `Figma`, `Canva`, `Adobe Suite`  
 - **Website Animation & Effects**
 
@@ -31,8 +31,4 @@ Currently, I am open to **freelance projects** and eager to collaborate with bus
 I am available for **freelance projects** and open to work opportunities. If you need a professional **Frontend Developer & Web Designer**, feel free to reach out!
 
 📩 **Contact Me:**  
-🔗 [Instagram](#)  
-🔗 [LinkedIn](#)  
-🔗 [Twitter](#)  
-🔗 [Behance](#)  
 📧 **Email:** [pujakumarijb@gmail.com](#)
