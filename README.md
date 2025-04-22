@@ -20,8 +20,8 @@ Currently, I am open to **freelance projects** and eager to collaborate with bus
 ---
 
 ## 🔥 Skills & Technologies
-- **Programming Languages:** `Java`, `JavaScript`, `PHP`  
-- **Frontend Development:** `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `React.js`, `Next.js`  
+- **Programming Languages:** `Java`, `JavaScript`, `PHP`, `Node.js`   
+- **Frontend Development:** `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`, `React.js`, `Next.js`, `TypeScript`, `Three.js`
 - **Design & Prototyping:** `Figma`, `Canva`, `Adobe Suite`  
 - **Website Animation & Effects**
 
