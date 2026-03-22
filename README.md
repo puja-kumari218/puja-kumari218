@@ -4,7 +4,19 @@
 
 <br/>
 
-<img src="./cute_pink_cat.svg" width="200" alt="cute pink pixel cat"/>
+<table border="0" align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&pause=1200&color=F48FB1&center=true&vCenter=true&width=160&lines=✿+Frontend+Dev+✿;✿+Web+Designer+✿;✿+Three.js+Lover+✿;✿+Freelance+Open+✿" alt="left typing"/>
+</td>
+<td align="center" width="220">
+<img src="./cute_pink_cat.svg" width="210" alt="cute pink pixel cat"/>
+</td>
+<td align="center" width="200">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&pause=1200&color=F48FB1&center=true&vCenter=true&width=160&lines=✿+React+%26+Next.js+✿;✿+Figma+%26+Canva+✿;✿+UI%2FUX+Design+✿;✿+B.Tech+2023+✿" alt="right typing"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -122,10 +134,6 @@ const puja = {
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pujakumari&theme=rose_pine_dawn&hide_border=false&border_radius=16&ring=e91e8c&fire=f06292&currStreakLabel=e91e8c&sideLabels=c2185b&dates=ad1457&background=FFF0F5&border=F8BBD0"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pujakumari&bg_color=fff0f5&color=e91e8c&line=f48fb1&point=c2185b&area=true&area_color=fce4ec&hide_border=false&border_color=f8bbd0&radius=16"/>
 
 </div>
 
