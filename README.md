@@ -6,6 +6,38 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
+<!-- Pixel Cat -->
+<svg width="120" height="120" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+  <rect x="4" y="2" width="4" height="4" fill="#FF85A2"/>
+  <rect x="24" y="2" width="4" height="4" fill="#FF85A2"/>
+  <rect x="5" y="3" width="2" height="2" fill="#FFB6C1"/>
+  <rect x="25" y="3" width="2" height="2" fill="#FFB6C1"/>
+  <rect x="6" y="6" width="20" height="16" rx="2" fill="#FFB6C1"/>
+  <rect x="7" y="15" width="4" height="2" fill="#FF69B4" opacity="0.5"/>
+  <rect x="21" y="15" width="4" height="2" fill="#FF69B4" opacity="0.5"/>
+  <rect x="10" y="11" width="4" height="2" fill="#FF4D88" rx="1"/>
+  <rect x="18" y="11" width="4" height="2" fill="#FF4D88" rx="1"/>
+  <rect x="15" y="14" width="2" height="1" fill="#FF69B4"/>
+  <rect x="13" y="16" width="2" height="1" fill="#FF69B4"/>
+  <rect x="17" y="16" width="2" height="1" fill="#FF69B4"/>
+  <rect x="14" y="17" width="1" height="1" fill="#FF69B4"/>
+  <rect x="17" y="17" width="1" height="1" fill="#FF69B4"/>
+  <rect x="2" y="14" width="6" height="1" fill="#FF85A2"/>
+  <rect x="2" y="16" width="5" height="1" fill="#FF85A2"/>
+  <rect x="24" y="14" width="6" height="1" fill="#FF85A2"/>
+  <rect x="25" y="16" width="5" height="1" fill="#FF85A2"/>
+  <rect x="8" y="22" width="16" height="8" rx="2" fill="#FFB6C1"/>
+  <rect x="6" y="28" width="6" height="4" rx="2" fill="#FF85A2"/>
+  <rect x="20" y="28" width="6" height="4" rx="2" fill="#FF85A2"/>
+  <rect x="26" y="24" width="4" height="2" fill="#FF85A2"/>
+  <rect x="28" y="22" width="2" height="4" fill="#FF85A2"/>
+  <rect x="28" y="20" width="3" height="2" fill="#FF85A2"/>
+  <rect x="12" y="23" width="8" height="5" rx="2" fill="#FFC8D8" opacity="0.7"/>
+  <rect x="13" y="21" width="6" height="2" fill="#FF69B4"/>
+  <rect x="14" y="20" width="2" height="2" fill="#FF4D88"/>
+  <rect x="16" y="20" width="2" height="2" fill="#FF4D88"/>
+</svg>
+
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%B8;Web+Designer+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%92%96;Open+to+Freelance+%F0%9F%8C%BA" alt="Typing SVG" />
 
 <br/>
@@ -111,7 +143,51 @@ Creative identity that leaves a lasting impression
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pujakumari&theme=pink-and-green&hide_border=false&border_radius=15&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF85A2)
+<!-- Streak with full green numbers — ring, fire, current streak all green -->
+<img src="https://streak-stats.demolab.com/?user=pujakumari&background=fff0f5&border=FFB6C1&stroke=FF69B4&ring=22c55e&fire=22c55e&currStreakNum=22c55e&sideNums=22c55e&currStreakLabel=FF69B4&sideLabels=FF85A2&dates=FF85A2&border_radius=15" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐱 ᴘɪxᴇʟ ᴄᴀᴛ sᴀʏs ʜɪ 🐱
+
+<!-- Waving pixel cat -->
+<svg width="100" height="100" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated">
+  <rect x="4" y="2" width="4" height="5" fill="#FF85A2"/>
+  <rect x="24" y="2" width="4" height="5" fill="#FF85A2"/>
+  <rect x="5" y="3" width="2" height="3" fill="#FFB6C1"/>
+  <rect x="25" y="3" width="2" height="3" fill="#FFB6C1"/>
+  <rect x="6" y="6" width="20" height="16" rx="2" fill="#FFC8D8"/>
+  <rect x="7" y="15" width="3" height="2" fill="#FF69B4" opacity="0.5"/>
+  <rect x="22" y="15" width="3" height="2" fill="#FF69B4" opacity="0.5"/>
+  <rect x="10" y="10" width="3" height="3" fill="#FF4D88" rx="1"/>
+  <rect x="19" y="10" width="3" height="3" fill="#FF4D88" rx="1"/>
+  <rect x="11" y="11" width="1" height="1" fill="white"/>
+  <rect x="20" y="11" width="1" height="1" fill="white"/>
+  <rect x="15" y="14" width="2" height="1" fill="#FF69B4"/>
+  <rect x="13" y="16" width="6" height="1" fill="#FF69B4" rx="1"/>
+  <rect x="2" y="13" width="6" height="1" fill="#FF85A2"/>
+  <rect x="2" y="15" width="5" height="1" fill="#FF85A2"/>
+  <rect x="24" y="13" width="6" height="1" fill="#FF85A2"/>
+  <rect x="25" y="15" width="5" height="1" fill="#FF85A2"/>
+  <rect x="8" y="22" width="16" height="8" rx="2" fill="#FFC8D8"/>
+  <rect x="24" y="20" width="4" height="2" fill="#FF85A2"/>
+  <rect x="26" y="18" width="4" height="2" fill="#FF85A2"/>
+  <rect x="28" y="16" width="3" height="2" fill="#FF85A2"/>
+  <rect x="6" y="28" width="6" height="4" rx="2" fill="#FF85A2"/>
+  <rect x="20" y="28" width="6" height="4" rx="2" fill="#FF85A2"/>
+  <rect x="26" y="26" width="4" height="2" fill="#FF85A2"/>
+  <rect x="28" y="24" width="2" height="3" fill="#FF85A2"/>
+  <rect x="28" y="22" width="2" height="2" fill="#FF85A2"/>
+  <rect x="11" y="23" width="10" height="4" rx="2" fill="#FFB6C1" opacity="0.6"/>
+  <rect x="2" y="4" width="2" height="2" fill="#FF69B4" opacity="0.7"/>
+  <rect x="28" y="6" width="2" height="2" fill="#FF69B4" opacity="0.6"/>
+  <rect x="0" y="10" width="1" height="1" fill="#FFB6C1"/>
+  <rect x="30" y="12" width="1" height="1" fill="#FFB6C1"/>
+</svg>
 
 </div>
 
