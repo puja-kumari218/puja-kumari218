@@ -4,16 +4,20 @@
 
 <br/>
 
-<table border="0" align="center">
+<table border="0" align="center" cellpadding="10">
 <tr>
-<td align="center" width="200">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&pause=1200&color=F48FB1&center=true&vCenter=true&width=160&lines=✿+Frontend+Dev+✿;✿+Web+Designer+✿;✿+Three.js+Lover+✿;✿+Freelance+Open+✿" alt="left typing"/>
+<td align="center" width="200" valign="middle">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" height="130" style="border-radius:50%;" alt="left cat gif"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=12&pause=1200&color=F48FB1&center=true&vCenter=true&width=150&lines=✿+UI+%2F+UX+Design+✿;✿+Three.js+Magic+✿;✿+Freelance+Open+✿" alt="left typing"/>
 </td>
-<td align="center" width="220">
+<td align="center" width="220" valign="middle">
 <img src="./cute_pink_cat.svg" width="210" alt="cute pink pixel cat"/>
 </td>
-<td align="center" width="200">
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=13&pause=1200&color=F48FB1&center=true&vCenter=true&width=160&lines=✿+React+%26+Next.js+✿;✿+Figma+%26+Canva+✿;✿+UI%2FUX+Design+✿;✿+B.Tech+2023+✿" alt="right typing"/>
+<td align="center" width="200" valign="middle">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" height="130" style="border-radius:50%;" alt="right cat gif"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=12&pause=1200&color=F48FB1&center=true&vCenter=true&width=150&lines=✿+React+%26+Next.js+✿;✿+Figma+%26+Canva+✿;✿+B.Tech+2023+✿" alt="right typing"/>
 </td>
 </tr>
 </table>
