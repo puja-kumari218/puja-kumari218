@@ -7,35 +7,25 @@
 <table border="0" align="center" cellpadding="12" cellspacing="0">
 <tr>
 <td align="center" width="200" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="coding gif left"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="140" alt="girl coder gif left"/>
 <br/><br/>
-
-<img src="https://img.shields.io/badge/✦_UI%2FUX_Design-fce4ec?style=flat-square&logoColor=c2185b&labelColor=f8bbd0&color=fce4ec" />
+<img src="https://img.shields.io/badge/✦_UI%2FUX_Design-fce4ec?style=flat-square&color=fce4ec" />
 <br/>
 <img src="https://img.shields.io/badge/✦_Three.js_Magic-fce4ec?style=flat-square&color=fce4ec" />
 <br/>
 <img src="https://img.shields.io/badge/✦_Web_Animation-fce4ec?style=flat-square&color=fce4ec" />
-
 </td>
 <td align="center" width="230" valign="middle">
-
 <img src="./cute_pink_cat.svg" width="215" alt="cute pink pixel cat"/>
-
 </td>
 <td align="center" width="200" valign="middle">
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="140" alt="design gif right"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/✦_React_%26_Next.js-fce4ec?style=flat-square&color=fce4ec" />
 <br/>
 <img src="https://img.shields.io/badge/✦_Figma_%26_Canva-fce4ec?style=flat-square&color=fce4ec" />
 <br/>
 <img src="https://img.shields.io/badge/✦_B.Tech_2023-fce4ec?style=flat-square&color=fce4ec" />
-
 </td>
 </tr>
 </table>
@@ -50,9 +40,9 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-e91e8c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pujakumarijb@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-f48fb1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pujakumari)
+[![Instagram](https://img.shields.io/badge/Instagram-f48fb1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404puja_found/)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pujakumari)
+[![YouTube](https://img.shields.io/badge/YouTube-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@404PujaFound)
 
 </div>
 
@@ -64,7 +54,11 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="190" alt="coding gif"/>
+<br/>
+
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="420">
 
 ```js
 const puja = {
@@ -73,21 +67,34 @@ const puja = {
   degree      :  "B.Tech Graduate — 2023",
   location    :  "Bengaluru, India 🇮🇳",
 
-  passion     :  ["3D Animated Websites", "Beautiful UIs", "Creative Designs"],
-  superpower  :  "Turning Figma designs into living, breathing websites ✨",
+  passion     :  ["3D Animated Websites",
+                  "Beautiful UIs",
+                  "Creative Designs"],
+  superpower  :  "Turning Figma designs into
+                  living, breathing websites ✨",
 
-  techStack   :  ["React.js", "Next.js", "Three.js", "TypeScript", "Tailwind"],
+  techStack   :  ["React.js", "Next.js",
+                  "Three.js", "TypeScript",
+                  "Tailwind"],
   design      :  ["Figma", "Canva", "Adobe Suite"],
 
   available   :  "✅  Open to Freelance Projects",
   youtube     :  "🎬  Tech Tips & Web Dev Tutorials",
   instagram   :  "📸  Design Inspo & Creative Work",
 
-  funFact     :  "I turn ☕ into pixel-perfect animated websites ✨"
+  funFact     :  "I turn ☕ into pixel-perfect
+                  animated websites ✨"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="220">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="girl coder animated"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -97,35 +104,35 @@ const puja = {
 
 <br/>
 
-<table border="0" cellpadding="8">
+<table border="0" cellpadding="10">
 <tr>
 <td align="center" width="175">
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="design"/>
 <br/><br/>
 <b>🎨 UI / UX Design</b>
 <br/>
-<sub>Pixel-perfect, user-first interfaces that delight every click</sub>
+<sub>Pixel-perfect, user-first<br/>interfaces that delight</sub>
 </td>
 <td align="center" width="175">
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60" alt="code"/>
 <br/><br/>
 <b>⚡ Frontend Dev</b>
 <br/>
-<sub>Modern, fast & responsive web apps with clean code</sub>
+<sub>Modern, fast & responsive<br/>web apps with clean code</sub>
 </td>
 <td align="center" width="175">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60" alt="3d"/>
 <br/><br/>
 <b>🪄 3D Websites</b>
 <br/>
-<sub>Immersive Three.js experiences that wow visitors</sub>
+<sub>Immersive Three.js experiences<br/>that wow visitors</sub>
 </td>
 <td align="center" width="175">
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="60" alt="brand"/>
 <br/><br/>
 <b>🌟 Brand Design</b>
 <br/>
-<sub>Creative visual identity that leaves a lasting impression</sub>
+<sub>Creative visual identity<br/>that leaves an impression</sub>
 </td>
 </tr>
 </table>
@@ -138,11 +145,7 @@ const puja = {
 
 ### 🎀 &nbsp; T E C H &nbsp; S T A C K &nbsp; 🎀
 
-</div>
-
 <br/>
-
-<div align="center">
 
 **✦ Languages ✦**
 
@@ -178,7 +181,7 @@ const puja = {
 
 <div align="center">
 
-### 📺 &nbsp; Y O U T U B E &nbsp; &amp; &nbsp; I N S T A G R A M &nbsp; 📸
+### 📺 &nbsp; F O L L O W &nbsp; M Y &nbsp; J O U R N E Y &nbsp; 📸
 
 <br/>
 
@@ -187,20 +190,20 @@ const puja = {
 <td align="center" width="280">
 <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="80" alt="youtube"/>
 <br/><br/>
-<a href="https://youtube.com/@pujakumari">
-<img src="https://img.shields.io/badge/YouTube-@pujakumari-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.youtube.com/@404PujaFound">
+<img src="https://img.shields.io/badge/YouTube-@404PujaFound-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <br/><br/>
-<sub>🎬 <b>Tech Tips · Web Dev Tutorials</b><br/>Three.js · React · Frontend Magic<br/><i>Subscribe for weekly tips! ✨</i></sub>
+<sub>🎬 <b>Tech Tips · Web Dev Tutorials</b><br/>Three.js · React · Frontend Magic<br/><br/><i>✨ Subscribe for weekly dev tips! ✨</i></sub>
 </td>
 <td align="center" width="280">
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" alt="instagram"/>
 <br/><br/>
-<a href="https://instagram.com/pujakumari">
-<img src="https://img.shields.io/badge/Instagram-@pujakumari-f48fb1?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/404puja_found/">
+<img src="https://img.shields.io/badge/Instagram-@404puja__found-f48fb1?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <br/><br/>
-<sub>📸 <b>Design Inspo · Creative Work</b><br/>UI Snippets · Behind the Scenes<br/><i>Follow for daily design inspo! 🌸</i></sub>
+<sub>📸 <b>Design Inspo · Creative Work</b><br/>UI Snippets · Behind the Scenes<br/><br/><i>🌸 Follow for daily design inspo! 🌸</i></sub>
 </td>
 </tr>
 </table>
@@ -233,19 +236,15 @@ const puja = {
 
 <br/>
 
-*Like this README? Want one just like it for yourself? Let's connect!* 🌸
+*Loved this README? Want one just like it? Come say hi!* 🌸
 
 <br/>
 
 [![Email](https://img.shields.io/badge/📧_pujakumarijb@gmail.com-e91e8c?style=for-the-badge)](mailto:pujakumarijb@gmail.com)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-f48fb1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pujakumari)
+[![Instagram](https://img.shields.io/badge/@404puja__found-f48fb1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404puja_found/)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pujakumari)
-
-<br/>
-
-> *✿ If you like this README style and want one too — just reach out! ✿*
+[![YouTube](https://img.shields.io/badge/@404PujaFound-ff7eb3?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@404PujaFound)
 
 <br/>
 
@@ -257,6 +256,6 @@ const puja = {
 ✿ ────────────────────────────────────────────── ✿
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffb6c1,100:ffe0ef&height=110&section=footer&text=Happy+Coding!+%F0%9F%8C%B8+%7C+Follow+for+Tech+Tips!&fontSize=22&fontColor=c2185b&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffb6c1,100:ffe0ef&height=110&section=footer&text=Happy+Coding!+%F0%9F%8C%B8+%7C+Subscribe+for+Tech+Tips!&fontSize=20&fontColor=c2185b&animation=fadeIn" width="100%"/>
 
 </div>
