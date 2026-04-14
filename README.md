@@ -91,7 +91,6 @@ const puja = {
 </td>
 <td valign="middle" align="center" width="220">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="girl coder animated"/>
 
 </td>
 </tr>
